@@ -1,0 +1,42 @@
+,Source / fate,Anchovy eggs,Fishery offal,Pelagic detritus,Benthic detritus,Export,Sum
+1,Diatoms,0,0,1,0,0,1
+2,Dino/silicoflagellates,0,0,1,0,0,1
+3,Microzooplankton,0,0,1,0,0,1
+4,Mesozooplankton,0,0,0.2,0.8,0,1
+5,Macrozooplankton,0,0,0.2,0.8,0,1
+6,Gelatinous zooplankton,0,0,0.95,0.05,0,1
+7,Chrysaora plocamia,0,0,0.95,0.05,0,1
+8,Macrobenthos,0,0,0,1,0,1
+9,Sardine,0,0,0,1,0,1
+10,Anchovy ,0.25,0,0,0.75,0,1
+11,Mesopelagic fish,0,0,0.25,0.75,0,1
+12,Jumbo squid,0,0,0,1,0,1
+13,Other cephalopods,0,0,0.25,0.75,0,1
+14,Other small pelagic fish,0,0,0.25,0.75,0,1
+15,Horse mackerel,0,0,0,1,0,1
+16,Chub mackerel,0,0,0,1,0,1
+17,Other large pelagic fish,0,0,0,1,0,1
+18,Small hake ,0,0,0.1,0.9,0,1
+19,Medium hake,0,0,0,1,0,1
+20,Large hake ,0,0,0,1,0,1
+21,Flatfish,0,0,0.25,0.75,0,1
+22,Small demersal fish,0,0,0.25,0.75,0,1
+23,Benthic elasmobranchs,0,0,0,1,0,1
+24,Butter fishes,0,0,0,1,0,1
+25,Conger,0,0,0,1,0,1
+26,Medium demersal fish,0,0,0,1,0,1
+27,Medium sciaenids,0,0,0,1,0,1
+28,Sea robin,0,0,0,1,0,1
+29,Catfish,0,0,0,1,0,1
+30,Chondrichthyans,0,0,0,1,0,1
+31,Seabirds,0,0,0,1,0,1
+32,Pinnipeds,0,0,0,1,0,1
+33,Cetaceans,0,0,0,1,0,1
+34,Green sea turtle,0,0,0.7,0.3,0,1
+35,Leatherback turtle,0,0,0.7,0.3,0,1
+36,Anchovy eggs,0,0,0,1,0,1
+37,Fishery offal,0,0,0.1,0.9,0,1
+38,Pelagic detritus,0,0,0,1,0,1
+39,Benthic detritus,0,0,0,0,1,1
+40,Artisanal fisheries,0,1,0,0,0,1
+41,Commercial fisheries,0,1,0,0,0,1

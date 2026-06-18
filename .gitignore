@@ -1,0 +1,22 @@
+# ========================
+# IDE & Environment Files
+# ========================
+# Ignores JetBrains IDE folders (PyCharm, IntelliJ, etc.) anywhere in the repo
+.idea/
+
+# ========================
+# Logs
+# ========================
+# Ignores the specific log file from your script
+ewe_conversion.log
+*.log
+
+# ========================
+# Common Python Exclusions (Recommended)
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env

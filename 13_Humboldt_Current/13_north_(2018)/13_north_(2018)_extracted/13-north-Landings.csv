@@ -1,0 +1,42 @@
+,Group name,Artisanal (t/km^2/year),Commercial (t/km^2/year),Total
+1,Diatoms,0,0,0
+2,Dino/silicoflagellates,0,0,0
+3,Microzooplankton,0,0,0
+4,Mesozooplankton,0,0,0
+5,Macrozooplankton,0,0,0
+6,Gelatinous zooplankton,0,0,0
+7,Chrysaora plocamia,0,0,0
+8,Macrobenthos,0,0,0
+9,Sardine,0,5.6513,0.1746
+10,Anchovy ,0,22.4755,0.6945
+11,Mesopelagic fish,0,0,0
+12,Jumbo squid,0,0.1002,0.0053
+13,Other cephalopods,0.0337,0,0.0018
+14,Other small pelagic fish,0,1.5223,0.1675
+15,Horse mackerel,0,1.6942,0.0523
+16,Chub mackerel,0,0.7204,0.0223
+17,Other large pelagic fish,0,0.3007,0.0331
+18,Small hake ,0,1.0278,0.1381
+19,Medium hake,0,0.0265,0.0222
+20,Large hake ,0,0,0.0463
+21,Flatfish,0.0037,0,0.0004
+22,Small demersal fish,0.0174,0,0.0019
+23,Benthic elasmobranchs,0.0365,0,0.004
+24,Butter fishes,0,0,0
+25,Conger,0,0,0
+26,Medium demersal fish,0.1347,0,0.0148
+27,Medium sciaenids,0.0552,0,0.0061
+28,Sea robin,0,0,0
+29,Catfish,0.3061,0,0.0337
+30,Chondrichthyans,0,0.0130,0.0014
+31,Seabirds,0,0,0
+32,Pinnipeds,0,0,0
+33,Cetaceans,0,0,0
+34,Green sea turtle,0,0,0
+35,Leatherback turtle,0,0,0
+36,Anchovy eggs,0,0,0
+37,Fishery offal,0,0,0
+38,Pelagic detritus,0,0,0
+39,Benthic detritus,0,0,0
+40,Artisanal fisheries,,,0
+41,Commercial fisheries,,,0
