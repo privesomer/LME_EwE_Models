@@ -1,0 +1,39 @@
+,Group name,Hab area (proportion),Biomass in habitat area (t/km^2),Total mortality (/year),Production / biomass (/year),Consumption / biomass (/year),Ecotrophic Efficiency,Other mortality,Production / consumption,Unassim. consumption,Detritus import (t/km^2/year)
+1,Phytoplankton,1,323,,399,,,0.035,,,0
+2,Benthic producer,1,153,,11.89,,,0.02,,,0
+3,Zooplankton,1,33.8,,32,192,0.052,,,,0
+4,Jellyfish,1,0.146,,5,20,0.95,,,,0
+5,Polychaetes,1,3.421,,6.75,22.5,0.95,,,,0
+6,Echinoderms,1,3.065,,1.2,3.58,0.398,,,,0
+7,Benthic crustaceans,1,2.649,,5.65,26.9,0.624,,,,0
+8,Non-ceph molluscs,1,13.747,,3,7,0.383,,,,0
+9,Sessile/other invertebrates,1,3.114,,1,9,0.845,,,,0
+10,Shrimps,1,0.422,,5.4,28.9,0.95,,,,0
+11,Crabs,1,0.731,,3,12,0.95,,,,0
+12,Cephalopods,1,0.465,,3.1,8,0.5,,,,0
+13,Threadfin bream (nemipterids),1,1.04,,0.74,8.1,0.469,,,,0
+14,Bigeyes (priacanthids),1,0.318,,1.21,11.3,0.328,,,,0
+15,Lizard fish (synodontids),1,0.3,,2.3,5.41,0.241,,,,0
+16,Juvenile Hairtail (trichiurids),1,0.034,,2.3,13.41,0.329,,,,0
+17,Adult hairtail (trichiurids),1,0.0426,,1.5,6.21,0.327,,,,0
+18,Pomfret (stromateids),1,0.065,,1.3,6.38,0.95,,,,0
+19,Snappers,1,0.014,,1.34,8.98,0.95,,,,0
+20,Adult groupers,1,0.04,,0.85,6.1,0.375,,,,0
+21,Croakers (30 cm),1,0.289,,2.36,11.28,0.784,,,,0
+22,Juvenile large croakers,1,0.0425,,2.36,15.65,0.913,,,,0
+23,Croakers (> 30 cm),1,0.095,,1.43,6.23,0.541,,,,0
+24,Demesral fish (< 30 cm),1,1.541,,2.7,13.03,0.95,,,,0
+25,Juvenile demersal fish (> 30 cm),1,0.112,,2.6,15.46,0.599,,,,0
+26,Adult demersal fish (>30 cm),1,0.195,,1.44,6.21,0.355,,,,0
+27,Benthopelagic fish,1,0.47,,3,15,0.95,,,,0
+28,Melon seed,1,0.114,,2.24,24.7,0.964,,,,0
+29,Pelagic fish (< 30 cm),1,1.05,,2.87,12.22,0.95,,,,0
+30,Juvenile large pelagic fish,1,0.118,,2.87,14.37,0.62,,,,0
+31,Pelagic fish (> 30 cm),1,0.158,,0.9,6.28,0.283,,,,0
+32,Demersal sharks and rays,1,0.04,,1.26,6.3,0.364,,,,0
+33,Pelagic sharks and rays,1,0.028,,0.39,1.95,0.5,,,,0
+34,Seabirds,1,0.0022,,0.06,67.76,0.005,,,,0
+35,Pinnipeds,1,0.0046,,0.045,14.77,0.679,,,,0
+36,Other mammals,1,0.0158,,0.112,10.52,0.068,,,,0
+37,Marine turtles,1,0.0002,,0.1,3.5,0.503,,,,0
+38,Detritus,1,100,,,,0.017,,,,0

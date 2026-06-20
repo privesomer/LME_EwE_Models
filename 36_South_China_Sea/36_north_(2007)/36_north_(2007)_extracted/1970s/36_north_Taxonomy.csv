@@ -1,0 +1,183 @@
+Taxonomic level,Taxon,Common name,Intrinsic vulnerability
+Family,Pristidae,Sawfishes,88
+Family,Squatinidae,Angel sharks,80
+Family,Anarhichadidae,Wolffishes,78
+Family,Carcharhinidae,"Requiem sharks. Hammerhead, bonnethead",77
+Family,Sphyrnidae,scoophead shark,77
+Family,Macrouridae,Grenadiers or rattails,75
+Family,Rajidae,Skates,72
+Family,Alepocephalidae,Slickheads,71
+Family,Lophiidae,Goosefishes,70
+Family,Torpedinidae,Electric rays,68
+Family,Belonidae,Needlefishes,67
+Family,Emmelichthyidae,Rovers,66
+Family,Nototheniidae,Cod icefishes,65
+Family,Ophidiidae,Cuskeels,65
+Family,Trachichthyidae,Slimeheads,64
+Family,Channichthyidae,Crocodile icefishes,63
+Family,Myliobatidae,Eagle and manta rays,63
+Family,Squalidae,Dogfish sharks,62
+Family,Congridae,Conger and garden eels,60
+Family,Serranidae,"Sea basses, groupers, etc.",60
+Family,Exocoetidae,Flyingfishes,59
+Family,Malacanthidae,Tilefishes,58
+Family,Scorpaenidae,Scorpionfishes or rockfishes,58
+Family,Polynemidae,Threadfins,56
+Family,Triakidae,Houndsharks,56
+Family,Istiophoridae,Billfishes,55
+Family,Petromyzontidae,Lampreys,55
+Family,Rhinobatidae,Guitarfishes,54
+Family,Bramidae,Pomfrets,53
+Family,Lethrinidae,Emperors or scavengers,53
+Family,Muraenidae,Moray eels,53
+Family,Scombridae,"Mackerels, tunas, bonitos",52
+Family,Scyliorhinidae,Cat sharks,52
+Family,Clupeidae,"Herrings, shads, sardines, menhadens",51
+Family,Lutjanidae,Snappers,51
+Family,Labridae,Wrasses,50
+Family,Latridae,Trumpeters,50
+Family,Pomacanthidae,Angelfishes,50
+Family,Stromateidae,Butterfishes,50
+Family,Moridae,Morid cods,49
+Family,Mugilidae,Mullets,49
+Family,Oreosomatidae,Oreos,49
+Family,Scophthalmidae,Scophthalmidae,49
+Family,Pleuronectidae,Righteye flounders,48
+Family,Scaridae,Parrotfishes,48
+Family,Batrachoididae,Toadfishes,47
+Family,Sciaenidae,Drums or croakers,47
+Family,Zeidae,Dories,47
+Family,Carangidae,Jacks and pompanos,46
+Family,Cottidae,Sculpins,46
+Family,Platycephalidae,Flatheads,46
+Family,Soleidae,Soles,46
+Family,Ammodytidae,Sand lances,45
+Family,Centrolophidae,Medusafishes,45
+Family,Echeneidae,Remoras,45
+Family,Scomberesocidae,Sauries,45
+Family,Sparidae,Porgies,45
+Family,Engraulidae,Anchovies,44
+Family,Haemulidae,Grunts,43
+Family,Mullidae,Goatfishes,43
+Family,Chlorophthalmidae,Greeneyes,42
+Family,Ephippidae,"Spadefishes, batfishes and scats",42
+Family,Trichiuridae,Cutlassfishes,42
+Family,Ariidae,Sea catfishes,40
+Family,Cynoglossidae,Tonguefishes,40
+Family,Dasyatidae,Stingrays,40
+Family,Sillaginidae,Smelt-whitings,40
+Family,Trachinidae,Weeverfishes,40
+Family,Atherinidae,Silversides,39
+Family,Nemipteridae,"Threadfin breams, Whiptail breams",39
+Family,Triglidae,Searobins,38
+Family,Balistidae,Triggerfishes,37
+Family,Salmonidae,Salmonids,36
+Family,Tetraodontidae,Puffers,36
+Family,Ostraciidae,"Boxfishes (cowfish and trunkfish)",33
+Family,Acanthuridae,"Surgeonfishes, tangs. unicornfishes",31
+Family,Myctophidae,Lanternfishes,31
+Family,Leiognathidae,"Slimys, slipmouths, or ponyfishes",30
+Family,Gobiidae,Gobies,29
+Family,Bothidae,Lefteye flounders,28
+Family,Caproidae,Boarfishes,28
+Family,Centriscidae,Snipefishes and shrimpfishes,28
+Family,Holocentridae,"Squirrelfishes, soldierfishes",28
+Family,Gerreidae,Mojarras,22
+Family,Synodontidae,Lizardfishes,22
+Family,Ambassidae,Asiatic glassfishes,21
+Family,Apogonidae,Cardinalfishes,10
+Genus,Muraenesox,Conger eels,90
+Genus,Mycteroperca,Grouper,89
+Genus,Alopias,Thresher,79
+Genus,Dissostichus,Toothfish,79
+Genus,Anarhichas,Wolffish,78
+Genus,Macrourus,Grenadier,78
+Genus,Isurus,Mako,76
+Genus,Molva,Ling,76
+Genus,Callorhinchus,Elephantfish,75
+Genus,Genypterus,Cusk-eel,75
+Genus,Gymnura,Gymnura,75
+Genus,Lophius,Angler/Monk fishes,75
+Genus,Dasyatis,Stingrays,73
+Genus,Macruronus,Grenaiders,73
+Genus,Raja,Rays,72
+Genus,Bathyraja,Skates,70
+Genus,Salvelinus,Charr,70
+Genus,Torpedo,Torpedo,68
+Genus,Trachinotus,Pompanos,68
+Genus,Tylosurus,Needlefishes,67
+Genus,Etmopterus,Lanternsharks,66
+Genus,Thunnus,Tuna,64
+Genus,Austroglossus,Southern soles,63
+Genus,Epinephelus,Groupers,63
+Genus,Sphyraena,Barracudas,62
+Genus,Squalus,Squalus,62
+Genus,Trachurus,Cutlass fishes,62
+Genus,Argentina,Argentines,61
+Genus,Pseudotolithus,Croakers,61
+Genus,Scorpaena,Scorpionfish,61
+Genus,Beryx,Alfonsinos,60
+Genus,Chirocentrus,Wolf herring,60
+Genus,Hydrolagus,Chimaeras,60
+Genus,Lepidorhombus,Megrims,60
+Genus,Merluccius,Hakes,59
+Genus,Micropogonias,Western croakers,59
+Genus,Chrysoblephus,Seabreams,58
+Genus,Sebastes,Redfishes,58
+Genus,Caranx,Jacks,57
+Genus,Rhinobatos,Guitarfish,57
+Genus,Lithognathus,Lithognathus,56
+Genus,Lutjanus,Snappers,56
+Genus,Mustelus,Smooth-hounds,56
+Genus,Nemadactylus,Porae,55
+Genus,Seriola,Amberjacks,55
+Genus,Trigla,Gurnards,55
+Genus,Centropomus,Snooks,53
+Genus,Pagellus,Pandoras,53
+Genus,Scyliorhinus,Lesser catsharks,53
+Genus,Dentex,Seabreams (Dentex spp),52
+Genus,Pampus,Silver pomfrets,52
+Genus,Paralichthys,American flounders,52
+Genus,Epigonus,Cardinalfishes,51
+Genus,Hemiramphus,Halfbeaks,51
+Genus,Scomberoides,Queenfishes,51
+Genus,Solea,Soles,51
+Genus,Alosa,Shads,50
+Genus,Caesio,Fusiliers,50
+Genus,Cynoscion,Weakfishes,50
+Genus,Diplodus,Seabreams (Diplodus spp),50
+Genus,Salmo,Salmons,50
+Genus,Scomberomorus,Seerfishes,50
+Genus,Seriolella,Barrelfishes,50
+Genus,Trachipterus,Deaf fishes,50
+Genus,Coregonus,Whitefishes,49
+Genus,Phycis,"Gunnels, forkbeards",49
+Genus,Batrachoides,Toadfish,47
+Genus,Calamus,Porgies,47
+Genus,Kyphosus,Sea chubs,47
+Genus,Rhinochimaera,Rhinochimaera,47
+Genus,Ammodytes,Spookfishes,45
+Genus,Prionotus,Sandlances,45
+Genus,Rastrelliger,Indo-Pacific mackerels,45
+Genus,Sardinella,Sardine,45
+Genus,Dicentrarchus,European/spotted seabass,44
+Genus,Mullus,Goatfishes,44
+Genus,Oncorhynchus,Pacific salmon,43
+Genus,Gymnocranius,Large-eye breams,42
+Genus,Platax,Batfishes,42
+Genus,Terapon,Trumpeters,42
+Genus,Harengula,Herring,41
+Genus,Pagrus,Seabreams (Pagrus spp),41
+Genus,Stolephorus,Anchovies,41
+Genus,Lycodes,Eelpouts,40
+Genus,Peprilus,Harvestfishes,40
+Genus,Menticirrhus,Kingcroakers,39
+Genus,Nemipterus,Threadfin breams,39
+Genus,Rhodichthys,Rhodichthys,39
+Genus,Siganus,Rabbitfishes,39
+Genus,Microchirus,Microchirus,38
+Genus,Plotosus,Eel catfishes,36
+Genus,Cantherhines,Filefishes,35
+Genus,Rhombosolea,Flounders,35
+Genus,Trematomus,Antarctic rockcods,35
+Genus,Spicara,Picarels,34
