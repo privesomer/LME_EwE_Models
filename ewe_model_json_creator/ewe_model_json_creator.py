@@ -202,7 +202,7 @@ class EwEConverter:
                     return "-9999", "false"
                 return str(val), "true"
 
-            biomass, b_input = get_val(row.iloc[3])
+            biomass_hab_area, b_input = get_val(row.iloc[3])
             pb, pb_input = get_val(row.iloc[5])
             qb, qb_input = get_val(row.iloc[6])
             ee, ee_input = get_val(row.iloc[7])
@@ -210,6 +210,7 @@ class EwEConverter:
             gs, _ = get_val(row.iloc[10] if len(row) > 10 else np.nan)
             det_import, _ = get_val(row.iloc[11] if len(row) > 11 else np.nan)
             hab_area = str(row.iloc[2]) if not pd.isna(row.iloc[2]) else "1"
+            biomass = str(float(biomass_hab_area) * float(hab_area))
 
             # A. Compile Real Diet FIRST
             raw_diet = []
@@ -378,7 +379,7 @@ class EwEConverter:
                 "group_name": group_name,
                 "group_seq": group_seq,
                 "habitat_area": hab_area,
-                "biomass_habitat_area": biomass,
+                "biomass_habitat_area": biomass_hab_area,
                 "b_hab_area_input": b_input,
                 "biomass": biomass,
                 "vbk": "0",
@@ -475,7 +476,7 @@ class EwEConverter:
                 'Group seq': parse_val(g_seq),
                 'Group name': g_name,
                 'Hab area (proportion)': parse_val(g.get('habitat_area')),
-                'Biomass in habitat area (t/km^2)': parse_val(g.get('biomass')),
+                'Biomass in habitat area (t/km^2)': parse_val(g.get('biomass_habitat_area')),
                 'Production / biomass (/year)': parse_val(g.get('pb')),
                 'Consumption / biomass (/year)': parse_val(g.get('qb')),
                 'Ecotrophic Efficiency': parse_val(g.get('ee')),
