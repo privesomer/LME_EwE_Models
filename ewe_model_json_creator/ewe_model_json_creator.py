@@ -620,6 +620,19 @@ Usage Examples:
     group.add_argument('-d', '--dir', type=str, help='Path to directory containing CSV/Excel EwE inputs.')
     group.add_argument('-j', '--json', type=str, help='Path to an existing JSON model file.')
 
+    ALL_INPUTS = [
+        "..\\13_Humboldt_Current\\13_north_(2018)\\13_north_(2018)_extracted\\",
+        "..\\13_Humboldt_Current\\13_south_(2026)\\13_south_(2026)_extracted\\",
+        "..\\36_South_China_Sea\\36_north_(2007)\\36_north_(2007)_extracted\\1970s\\",
+        "..\\36_South_China_Sea\\36_north_(2007)\\36_north_(2007)_extracted\\2000s\\",
+        "..\\47_East_China_Sea\\47_(2022)_extracted\\M1997\\",
+        "..\\47_East_China_Sea\\47_(2022)_extracted\\M2018\\",
+        "..\\48_Yellow_Sea\\48_reefs_(2022)\\48_reefs_(2022)_extracted\\artificial_reefs\\",
+        "..\\48_Yellow_Sea\\48_reefs_(2022)\\48_reefs_(2022)_extracted\\neutral_reefs\\",
+        "..\\48_Yellow_Sea\\48_southwestern_(2022)\\48_southwestern_(2022)_extracted\\",
+        "..\\49_Kuroshio_Current\\49_(2019)_extracted\\"
+    ]
+
     args = parser.parse_args()
 
     converter = EwEConverter()
@@ -630,10 +643,16 @@ Usage Examples:
             print(f"Error: Directory '{input_directory}' does not exist.")
             return
 
-        print(f"\n--- Running Pipeline Option 1 (Dir -> JSON -> Excel) ---")
-        json_file = converter.csv_to_json(input_directory)
-        if json_file:
-            converter.json_to_excel(json_file)
+        for input_dir in ALL_INPUTS:
+            print(f"\n--- Running on", input_dir)
+            json_file = converter.csv_to_json(input_dir)
+            if json_file:
+                converter.json_to_excel(json_file)
+
+        # print(f"\n--- Running Pipeline Option 1 (Dir -> JSON -> Excel) ---")
+        # json_file = converter.csv_to_json(input_directory)
+        # if json_file:
+        #     converter.json_to_excel(json_file)
 
     elif args.json:
         json_path = os.path.abspath(args.json)
