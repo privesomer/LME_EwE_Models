@@ -1,0 +1,11 @@
+,Group name,Hab area (proportion),Biomass in habitat area (t/km^2),Total mortality (/year),Production / biomass (/year),Consumption / biomass (/year),Ecotrophic Efficiency,Other mortality,Production / consumption,Unassim. consumption,Detritus import (t/km^2/year)
+1,Dolphins,1,0.091,,0.35,19,0.296,,,,
+2,Pelagic piscivorous fish,1,0.182,,0.55,5,0.995,,,,
+3,Demersal fish,1,0.455,,0.63,1.5,0.811,,,,
+4,Small pelagic fish,1,1.818,,1.5,11,0.924,,,,
+5,Aurelia,1,15,,11,29.2,0,,,,
+6,Mnemiopsis,1,,,,,0,,,,
+7,Zooplankton,1,8.25,,44,345,0.108,,,,
+8,Noctiluca,1,1.125,,7.3,36.2,0,,,,
+9,Phytoplankton,1,8.8,,291,,0.541,,,,
+10,Detritus,1,,,,,0.483,,,,

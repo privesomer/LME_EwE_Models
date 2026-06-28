@@ -1,0 +1,454 @@
+{
+    "group": [
+        {
+            "group_name": "Dolphins",
+            "group_seq": "1",
+            "habitat_area": "1",
+            "biomass_habitat_area": "0.091",
+            "b_hab_area_input": "true",
+            "biomass": "0.091",
+            "vbk": "0",
+            "pb": "0.35",
+            "pb_input": "true",
+            "ee": "0.296",
+            "ee_input": "true",
+            "biomass_accum": "-9999",
+            "biomass_accum_rate": "-9999",
+            "qb": "19.0",
+            "qb_input": "true",
+            "pp": "0",
+            "detritus_import": "0",
+            "respiration": "-9999",
+            "immigration": "-9999",
+            "emigration": "-9999",
+            "emigration_rate": "-9999",
+            "other_mort": "-9999",
+            "export": "0",
+            "gs": "0",
+            "shadow_price": "0",
+            "ge": "-9999",
+            "ge_input": "false",
+            "diet_imp": "0",
+            "diet_descr": {
+                "diet": [
+                    {
+                        "prey_seq": "2",
+                        "proportion": "0.04784688995215312",
+                        "detritus_fate": "0"
+                    },
+                    {
+                        "prey_seq": "3",
+                        "proportion": "0.09090909090909093",
+                        "detritus_fate": "0"
+                    },
+                    {
+                        "prey_seq": "4",
+                        "proportion": "0.8612440191387561",
+                        "detritus_fate": "0"
+                    }
+                ]
+            },
+            "taxon_descr": null,
+            "pedigree_assignment_descr": null
+        },
+        {
+            "group_name": "Pelagic piscivorous fish",
+            "group_seq": "2",
+            "habitat_area": "1",
+            "biomass_habitat_area": "0.45",
+            "b_hab_area_input": "true",
+            "biomass": "0.45",
+            "vbk": "0",
+            "pb": "0.55",
+            "pb_input": "true",
+            "ee": "0.995",
+            "ee_input": "true",
+            "biomass_accum": "-9999",
+            "biomass_accum_rate": "-9999",
+            "qb": "5.0",
+            "qb_input": "true",
+            "pp": "0",
+            "detritus_import": "0",
+            "respiration": "-9999",
+            "immigration": "-9999",
+            "emigration": "-9999",
+            "emigration_rate": "-9999",
+            "other_mort": "-9999",
+            "export": "0.236",
+            "gs": "0",
+            "shadow_price": "0",
+            "ge": "-9999",
+            "ge_input": "false",
+            "diet_imp": "0.4",
+            "diet_descr": {
+                "diet": {
+                    "prey_seq": "4",
+                    "proportion": "0.6",
+                    "detritus_fate": "0"
+                }
+            },
+            "taxon_descr": "Bluefish, Atlantic bonito, Atlantic mackerel",
+            "pedigree_assignment_descr": null
+        },
+        {
+            "group_name": "Demersal fish",
+            "group_seq": "3",
+            "habitat_area": "1",
+            "biomass_habitat_area": "2.991",
+            "b_hab_area_input": "true",
+            "biomass": "2.991",
+            "vbk": "0",
+            "pb": "0.63",
+            "pb_input": "true",
+            "ee": "0.427",
+            "ee_input": "true",
+            "biomass_accum": "-9999",
+            "biomass_accum_rate": "-9999",
+            "qb": "1.5",
+            "qb_input": "true",
+            "pp": "0",
+            "detritus_import": "0",
+            "respiration": "-9999",
+            "immigration": "-9999",
+            "emigration": "-9999",
+            "emigration_rate": "-9999",
+            "other_mort": "-9999",
+            "export": "0.191",
+            "gs": "0",
+            "shadow_price": "0",
+            "ge": "-9999",
+            "ge_input": "false",
+            "diet_imp": "0",
+            "diet_descr": {
+                "diet": [
+                    {
+                        "prey_seq": "3",
+                        "proportion": "0.1",
+                        "detritus_fate": "0"
+                    },
+                    {
+                        "prey_seq": "4",
+                        "proportion": "0.35",
+                        "detritus_fate": "0"
+                    },
+                    {
+                        "prey_seq": "7",
+                        "proportion": "0.2",
+                        "detritus_fate": "0"
+                    },
+                    {
+                        "prey_seq": "10",
+                        "proportion": "0.35",
+                        "detritus_fate": "0"
+                    }
+                ]
+            },
+            "taxon_descr": "Black Sea whiting, Black Sea turbot, Black Sea striped mullet",
+            "pedigree_assignment_descr": null
+        },
+        {
+            "group_name": "Small pelagic fish",
+            "group_seq": "4",
+            "habitat_area": "1",
+            "biomass_habitat_area": "13.245",
+            "b_hab_area_input": "true",
+            "biomass": "13.245",
+            "vbk": "0",
+            "pb": "1.5",
+            "pb_input": "true",
+            "ee": "0.413",
+            "ee_input": "true",
+            "biomass_accum": "-9999",
+            "biomass_accum_rate": "-9999",
+            "qb": "11.0",
+            "qb_input": "true",
+            "pp": "0",
+            "detritus_import": "0",
+            "respiration": "-9999",
+            "immigration": "-9999",
+            "emigration": "-9999",
+            "emigration_rate": "-9999",
+            "other_mort": "-9999",
+            "export": "3.727",
+            "gs": "0",
+            "shadow_price": "0",
+            "ge": "-9999",
+            "ge_input": "false",
+            "diet_imp": "0",
+            "diet_descr": {
+                "diet": {
+                    "prey_seq": "7",
+                    "proportion": "1",
+                    "detritus_fate": "0"
+                }
+            },
+            "taxon_descr": "Black Sea anchovy, Black Sea sprat, Black Sea horse mackerel",
+            "pedigree_assignment_descr": null
+        },
+        {
+            "group_name": "Aurelia",
+            "group_seq": "5",
+            "habitat_area": "1",
+            "biomass_habitat_area": "240.0",
+            "b_hab_area_input": "true",
+            "biomass": "240.0",
+            "vbk": "0",
+            "pb": "11.0",
+            "pb_input": "true",
+            "ee": "0.0",
+            "ee_input": "true",
+            "biomass_accum": "-9999",
+            "biomass_accum_rate": "-9999",
+            "qb": "29.2",
+            "qb_input": "true",
+            "pp": "0",
+            "detritus_import": "0",
+            "respiration": "-9999",
+            "immigration": "-9999",
+            "emigration": "-9999",
+            "emigration_rate": "-9999",
+            "other_mort": "-9999",
+            "export": "0",
+            "gs": "0",
+            "shadow_price": "0",
+            "ge": "-9999",
+            "ge_input": "false",
+            "diet_imp": "0",
+            "diet_descr": {
+                "diet": [
+                    {
+                        "prey_seq": "7",
+                        "proportion": "0.5",
+                        "detritus_fate": "0"
+                    },
+                    {
+                        "prey_seq": "9",
+                        "proportion": "0.1",
+                        "detritus_fate": "0"
+                    },
+                    {
+                        "prey_seq": "10",
+                        "proportion": "0.4",
+                        "detritus_fate": "0"
+                    }
+                ]
+            },
+            "taxon_descr": "Aurelia aurita",
+            "pedigree_assignment_descr": null
+        },
+        {
+            "group_name": "Mnemiopsis",
+            "group_seq": "6",
+            "habitat_area": "1",
+            "biomass_habitat_area": "-9999",
+            "b_hab_area_input": "false",
+            "biomass": "-9999.0",
+            "vbk": "0",
+            "pb": "-9999",
+            "pb_input": "false",
+            "ee": "0.0",
+            "ee_input": "true",
+            "biomass_accum": "-9999",
+            "biomass_accum_rate": "-9999",
+            "qb": "-9999",
+            "qb_input": "false",
+            "pp": "0",
+            "detritus_import": "0",
+            "respiration": "-9999",
+            "immigration": "-9999",
+            "emigration": "-9999",
+            "emigration_rate": "-9999",
+            "other_mort": "-9999",
+            "export": "0",
+            "gs": "0",
+            "shadow_price": "0",
+            "ge": "-9999",
+            "ge_input": "false",
+            "diet_imp": "0",
+            "diet_descr": {
+                "diet": [
+                    {
+                        "prey_seq": "7",
+                        "proportion": "0.5",
+                        "detritus_fate": "0"
+                    },
+                    {
+                        "prey_seq": "9",
+                        "proportion": "0.1",
+                        "detritus_fate": "0"
+                    },
+                    {
+                        "prey_seq": "10",
+                        "proportion": "0.4",
+                        "detritus_fate": "0"
+                    }
+                ]
+            },
+            "taxon_descr": "Mnemiopsis leidyi",
+            "pedigree_assignment_descr": null
+        },
+        {
+            "group_name": "Zooplankton",
+            "group_seq": "7",
+            "habitat_area": "1",
+            "biomass_habitat_area": "11.287",
+            "b_hab_area_input": "true",
+            "biomass": "11.287",
+            "vbk": "0",
+            "pb": "44.0",
+            "pb_input": "true",
+            "ee": "0.727",
+            "ee_input": "true",
+            "biomass_accum": "-9999",
+            "biomass_accum_rate": "-9999",
+            "qb": "345.0",
+            "qb_input": "true",
+            "pp": "0",
+            "detritus_import": "0",
+            "respiration": "-9999",
+            "immigration": "-9999",
+            "emigration": "-9999",
+            "emigration_rate": "-9999",
+            "other_mort": "-9999",
+            "export": "0",
+            "gs": "0",
+            "shadow_price": "0",
+            "ge": "-9999",
+            "ge_input": "false",
+            "diet_imp": "0",
+            "diet_descr": {
+                "diet": [
+                    {
+                        "prey_seq": "9",
+                        "proportion": "0.6",
+                        "detritus_fate": "0"
+                    },
+                    {
+                        "prey_seq": "10",
+                        "proportion": "0.4",
+                        "detritus_fate": "0"
+                    }
+                ]
+            },
+            "taxon_descr": "Mesozooplankton, Microzooplankton",
+            "pedigree_assignment_descr": null
+        },
+        {
+            "group_name": "Noctiluca",
+            "group_seq": "8",
+            "habitat_area": "1",
+            "biomass_habitat_area": "13.25",
+            "b_hab_area_input": "true",
+            "biomass": "13.25",
+            "vbk": "0",
+            "pb": "7.3",
+            "pb_input": "true",
+            "ee": "0.0",
+            "ee_input": "true",
+            "biomass_accum": "-9999",
+            "biomass_accum_rate": "-9999",
+            "qb": "36.2",
+            "qb_input": "true",
+            "pp": "0",
+            "detritus_import": "0",
+            "respiration": "-9999",
+            "immigration": "-9999",
+            "emigration": "-9999",
+            "emigration_rate": "-9999",
+            "other_mort": "-9999",
+            "export": "0",
+            "gs": "0",
+            "shadow_price": "0",
+            "ge": "-9999",
+            "ge_input": "false",
+            "diet_imp": "0",
+            "diet_descr": {
+                "diet": [
+                    {
+                        "prey_seq": "7",
+                        "proportion": "0.15",
+                        "detritus_fate": "0"
+                    },
+                    {
+                        "prey_seq": "9",
+                        "proportion": "0.6",
+                        "detritus_fate": "0"
+                    },
+                    {
+                        "prey_seq": "10",
+                        "proportion": "0.25",
+                        "detritus_fate": "0"
+                    }
+                ]
+            },
+            "taxon_descr": "Noctiluca scintillans",
+            "pedigree_assignment_descr": null
+        },
+        {
+            "group_name": "Phytoplankton",
+            "group_seq": "9",
+            "habitat_area": "1",
+            "biomass_habitat_area": "19.5",
+            "b_hab_area_input": "true",
+            "biomass": "19.5",
+            "vbk": "0",
+            "pb": "291.0",
+            "pb_input": "true",
+            "ee": "0.372",
+            "ee_input": "true",
+            "biomass_accum": "-9999",
+            "biomass_accum_rate": "-9999",
+            "qb": "-9999",
+            "qb_input": "false",
+            "pp": "1",
+            "detritus_import": "0",
+            "respiration": "-9999",
+            "immigration": "-9999",
+            "emigration": "-9999",
+            "emigration_rate": "-9999",
+            "other_mort": "-9999",
+            "export": "0",
+            "gs": "0",
+            "shadow_price": "0",
+            "ge": "-9999",
+            "ge_input": "false",
+            "diet_imp": "0",
+            "diet_descr": null,
+            "taxon_descr": "Diatoms, Dinoflagellates",
+            "pedigree_assignment_descr": null
+        },
+        {
+            "group_name": "Detritus",
+            "group_seq": "10",
+            "habitat_area": "1",
+            "biomass_habitat_area": "-9999",
+            "b_hab_area_input": "false",
+            "biomass": "-9999.0",
+            "vbk": "0",
+            "pb": "-9999",
+            "pb_input": "false",
+            "ee": "0.306",
+            "ee_input": "true",
+            "biomass_accum": "-9999",
+            "biomass_accum_rate": "-9999",
+            "qb": "-9999",
+            "qb_input": "false",
+            "pp": "2",
+            "detritus_import": "0",
+            "respiration": "-9999",
+            "immigration": "-9999",
+            "emigration": "-9999",
+            "emigration_rate": "-9999",
+            "other_mort": "-9999",
+            "export": "0",
+            "gs": "0",
+            "shadow_price": "0",
+            "ge": "-9999",
+            "ge_input": "false",
+            "diet_imp": "0",
+            "diet_descr": null,
+            "taxon_descr": "POM\u00a0+\u00a0detritus",
+            "pedigree_assignment_descr": null
+        }
+    ]
+}

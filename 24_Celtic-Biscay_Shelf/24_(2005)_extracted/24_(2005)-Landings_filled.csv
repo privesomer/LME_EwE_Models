@@ -1,0 +1,39 @@
+,Model group,DTrawl,BTrawl,Mid Trawl,Dredge,Purse,Line,Creel/Pot,Misc.,TOTAL
+1,Seals,,,,,,,,,0
+2,Cetaceans,,,,,,,,,0
+3,Seabirds,,,,,,,,,0
+4,Halibut/turbot/brill,0.004,0,,,0,,,,0.004
+5,Whiting,0.022,0,0.063,,0.003,,,0,0.088
+6,Other demersals,0.118,0.001,0.001,0,0.001,0.001,,,0.121
+7,Sharks,0.011,0,0,,0.002,0.002,0,,0.015
+8,Rays/Skates,0.007,0,0,,0.001,0,,,0.009
+9,Cod,0.022,0,0,,0.003,0,,,0.026
+10,Saithe,0.015,0,0,,0.002,0,,,0.017
+11,Other pelagics,0.079,0,0.009,,0.001,,,0.001,0.089
+12,Crabs/lobsters,0,,,0,0,,0.044,0,0.045
+13,Gurnards,0,0,,,0,,,,0
+14,Haddock,0.036,0,0,,0.008,,,,0.044
+15,Inshore fish,0.021,0,0,,0,0,0,0.003,0.024
+16,Salmo,,,,,0,0,,,0
+17,Mackerel,0.012,,0.207,,0.145,0,,0,0.364
+18,Trachurus,0.005,,0.228,,0.001,0,,,0.235
+19,Plaice,0.004,0.001,,,0.001,,,0,0.006
+20,Sole,0.001,0,,,0,,,,0.001
+21,Nephrops,0.044,,,0,0,,0.005,,0.049
+22,Norway pout,0,,0,,,,,,0
+23,Cephalopods,0,,,,,,,,0
+24,Sandeel,0.023,,0.002,,,,,,0.025
+25,Sprat,0,,0.025,,0,,0,,0.025
+26,Herring,0.003,,0.065,,0.045,,,,0.114
+27,Echinoderms,,,,,,,,,0
+28,Other benthic inverts,0.001,,0,0.036,0,,0.005,0.019,0.061
+29,Prawns/shrimps,0,,,,,,,,0
+30,Euphausiids,,,,,,,,,0
+31,Large zooplankton,,,,,,,,,0
+32,Polychaetes,,,,,,,,,0
+33,Small zooplankton,,,,,,,,,0
+34,Epifauna,,,,,,,,,0
+35,Infauna,,,,,,,,,0
+36,Phytoplankton,,,,,,,,,0
+37,Detritus,,,,,,,,,0
+TOTAL,TOTAL,0.43,0.002,0.599,0.036,0.213,0.003,0.054,0.022,1.36

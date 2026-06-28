@@ -1,0 +1,14 @@
+,Prey \ predator,1,2,3,4,5,6,7,8
+1,Dolphins,,,,,,,,
+2,Pelagic piscivorous fish,0.05,,,,,,,
+3,Demersal fish,0.095,,0.1,,,,,
+4,Small pelagic fish,0.9,0.6,0.35,,,,,
+5,Aurelia,,,,,,,,
+6,Mnemiopsis,,,,,,,,
+7,Zooplankton,,,0.2,1,0.5,0.5,,0.15
+8,Noctiluca,,,,,,,,
+9,Phytoplankton,,,,,0.1,0.1,0.6,0.6
+10,Detritus,,,0.35,,0.4,0.4,0.4,0.25
+,Import,,0.4,,,,,,
+,Sum,1.045,1,1,1,1,1,1,1
+,(1 - Sum),-0.045,0,0,0,0,0,0,0
